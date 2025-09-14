@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a **Full-Stack Admin Dashboard** application built for practical coding challenges.  
+This is a **Full-Stack Admin Dashboard** application built for practical coding challenges.
 It includes three main resources: **Users, Products, Orders**.
 
 - **Backend**: Node.js + Express + PostgreSQL
