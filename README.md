@@ -12,14 +12,14 @@ It includes three main resources: **Users, Products, Orders**.
 
 ---
 
-# Backend
+# Backend Setup
 
-cd backend
-npm run lint
-npm run format
+- cd back-end
+- npm install
+- npm run dev
 
-# Frontend
+# Frontend Setup
 
-cd frontend
-npm run lint
-npm run format
+- cd front-end
+- npm install
+- npm run dev
